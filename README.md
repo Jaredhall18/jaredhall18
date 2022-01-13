@@ -9,8 +9,8 @@
 
 - 📄 Know about my experiences [Here](Here)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/jared-hall-4144b7ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jared-hall-4144b7ab" height="30" width="40" /></a>
 </p>
 
