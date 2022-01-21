@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
-<h3 align="center">A passionate frontend developer from Utah</h3>
+<h3 align="center">A passionate fullstack developer from Utah</h3>
 
 - 🔭 I’m currently working on [My Portfolio Site](jaredhall.tech)
 
