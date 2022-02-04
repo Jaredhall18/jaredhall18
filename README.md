@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
-<h3 align="center">Full Stack Developer with experience in business operationss, marketing, and leadership </h3>
+<h3 align="center">Full Stack Developer with experience in business operations, marketing, and leadership </h3>
 
 <h3 align="center">Languages and Tools:</h3>
 
