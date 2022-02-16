@@ -36,7 +36,7 @@
   
  📫 How to reach me **jaredhall18@gmail.com**
   <br>
- 📄 Know about my experiences [Here](Here)
+ 📄 See my [<a href="https://docs.google.com/document/d/1vbSCKoytNAJMswwgjkwpdqm7ZrWGkSSRJ6e0YLUdcIs/edit?usp=sharing">My Resume</a>]
   </div>
 
 
@@ -46,10 +46,10 @@
 </p>
 <div align="center">
   <a href="https://github.com/jaredhall18/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaredhall18&show_icons=true&theme=dracula&hide=stars,issues&line_height=30&hide_rank=true" alt="davedwight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaredhall18&show_icons=true&theme=dracula&hide=stars,issues&line_height=30&hide_rank=true" alt="Jaredhall18" />
   </a>
   <a href="https://github.com/jaredhall18/" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaredhall18&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davedwight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaredhall18&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jaredhall18" />
   </a>
 </div>
 
