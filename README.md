@@ -36,7 +36,7 @@
   
  📫 How to reach me **jaredhall18@gmail.com**
   <br>
- 📄 See my [<a href="https://docs.google.com/document/d/1vbSCKoytNAJMswwgjkwpdqm7ZrWGkSSRJ6e0YLUdcIs/edit?usp=sharing" target="_blank">My Resume</a>]
+<!--  📄 See my [<a href="https://docs.google.com/document/d/1vbSCKoytNAJMswwgjkwpdqm7ZrWGkSSRJ6e0YLUdcIs/edit?usp=sharing" target="_blank">My Resume</a>] -->
   </div>
 
 
